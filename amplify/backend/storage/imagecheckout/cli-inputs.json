@@ -1,0 +1,14 @@
+{
+  "resourceName": "imagecheckout",
+  "policyUUID": "c0f27e49",
+  "bucketName": "checkoutimage",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

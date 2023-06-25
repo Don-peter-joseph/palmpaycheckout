@@ -31,6 +31,12 @@
       },
       "api": {
         "restapicheckout": {}
+      },
+      "auth": {
+        "palmpaycheckouta2c08cf8": {}
+      },
+      "storage": {
+        "imagecheckout": {}
       }
     }
   }
